@@ -1,0 +1,11 @@
+body{
+    background-color: tan;
+}
+
+h1 {
+    background: url("img.jpg") center center / cover no-repeat;
+    color: #de466c;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font: normal 800 100px Fira Code,sans-sarif;
+}
